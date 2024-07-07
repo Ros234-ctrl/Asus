@@ -140,9 +140,7 @@ margin-bottom: -5px; */
     float: left;
     position: relative;
     margin-left: 65px;
-    overflow: scroll;
- scroll-behavior: smooth;
-   
+
    }
 
 #hotel img:hover{
